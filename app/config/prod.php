@@ -5,5 +5,5 @@ pp['db.options'] = array(
 	        'port'     => '3306',
 		    'dbname'   => 'microcms',
 		        'user'     => 'microcms_user',
-			    'password' => '$db@microcms_user',
+			    'password' => '$db@microcms_user'
 			    );
