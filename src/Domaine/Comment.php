@@ -30,11 +30,8 @@
 
 
         /**
-
          * Associated article.
-
          *
-
          * @var \MicroCMS\Domain\Article
 
          */
