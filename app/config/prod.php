@@ -10,3 +10,6 @@ $app['db.options'] = array(
 		        'user'     => 'microcms_user',
 			    'password' => '$db@microcms_user'
 			    );
+// define log level
+$app['monolog.level'] = 'WARNING';
+
